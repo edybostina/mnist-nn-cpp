@@ -1,0 +1,10 @@
+This is a placeholder.
+Download the MNIST dataset here in this folder.
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+
+It should look like this:
+└── data/
+    ├── train-images.idx3-ubyte
+    ├── train-labels.idx3-ubyte
+    ├── t10k-images.idx3-ubyte
+    └── t10k-labels.idx3-ubyte
