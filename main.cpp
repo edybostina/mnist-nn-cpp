@@ -2,6 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <set>
+#include <algorithm>
 
 #include "mnist/mnist_reader.h"
 #include "nn/network.h"
